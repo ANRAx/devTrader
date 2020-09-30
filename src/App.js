@@ -1,6 +1,6 @@
 /* eslint-disable */
 import React, { Component } from 'react';
-import Landing from '../src/User/Landing_Page/Landing_Page';
+import Landing from './User/Landing_Page/Landing_Page';
 
 class App extends Component {
   constructor() {
